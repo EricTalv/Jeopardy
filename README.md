@@ -75,7 +75,7 @@ it re-opens the whole exe so now you'll have 2 games open, so keep that in mind.
 
 ## Authors notes
 
-So yes, though the product is basically playable it's very barebones, buggy and well lackluster.
+So yes, though the product is basically playable it's very barebones and slightly buggy.
 
 When I do get the time, I will try to re-vamp the whole program.
 
